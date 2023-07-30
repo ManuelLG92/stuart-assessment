@@ -1,0 +1,11 @@
+*.yaml
+*.yml
+*.md
+/coverage
+/dist
+/nodule_modules
+/devops
+/.github
+package-lock.json
+.env
+.env.*
